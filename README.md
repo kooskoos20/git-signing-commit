@@ -2,8 +2,8 @@
 
 #### Configure your name and email on github
 ```
-git config user.name "<your-name>"
-git config user.email "<your-email>"
+git config --global user.name "<your-name>"
+git config --global user.email "<your-email>"
 ```
 
 #### Generating GPG key to sign commits
